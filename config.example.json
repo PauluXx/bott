@@ -1,11 +1,11 @@
 {
   "servers": [
     {
-      "name": "example-server",
-      "serverApiId": "CFTools Cloud Server ID",
+      "name": "Rétroaction",
+      "serverApiId": "61a8e89f-909b-4c20-94dd-8ce0869c8348",
       "connect": {
-        "ip": "127.0.0.1",
-        "port": 2302
+        "ip": "146.19.168.99",
+        "port": 2430
       },
       "commands": {
         "haspriority": {},
@@ -27,10 +27,10 @@
     }
   ],
   "discord": {
-    "token": "Discord app token",
-    "author": "Optional author name (remove to use default)",
+    "token": "MTAwMTgwMDMyNDE3ODI2MDAxOQ.G6_kID.NUGMavo9Nu1CgznyGb4uwihIOALtgEl14kNfog",
+    "author": "PauluX",
     "guild": {
-      "id": "The Guild ID of your Discord server (right click on the server and select 'Copy ID' once you enabled the developer mode in Discord)"
+      "id": "689222662555566155"
     },
     "presence": false
   },
